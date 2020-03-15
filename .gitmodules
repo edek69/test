@@ -1,0 +1,3 @@
+[submodule "tesnamespaces/tnsdir"]
+	path = tesnamespaces/tnsdir
+	url = https://github.com/edek69/testns.git
